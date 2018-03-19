@@ -1,5 +1,5 @@
 俺の話を聞け!! LT大会＃8
-![logo](logo.png)
+![logo](logo.png : border="0")
 ## 今日も線形代数がんばるぞい！
 
 
