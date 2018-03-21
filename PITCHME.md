@@ -1,6 +1,14 @@
 俺の話を聞け!! LT大会＃8
 ## 今日も線形代数がんばるぞい！
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+\[
+  A = \left(
+    \begin{array}{ccc}
+      a & b & c \\
+      d & e & f \\
+      g & h & i
+    \end{array}
+  \right)
+\]
 
 
 ---
