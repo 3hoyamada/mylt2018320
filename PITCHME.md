@@ -2,10 +2,11 @@
 ## 今日も線形代数がんばるぞい！
 $$ \[
   A = \left(
-    \begin{array}{ccc}
-      a & b & c \\
-      d & e & f \\
-      g & h & i
+    \begin{array}{cccc}
+      a_{11} & a_{12} & \ldots & a_{1n} \\
+      a_{21} & a_{22} & \ldots & a_{2n} \\
+      \vdots & \vdots & \ddots & \vdots \\
+      a_{m1} & a_{m2} & \ldots & a_{mn}
     \end{array}
   \right)
 \] $$
