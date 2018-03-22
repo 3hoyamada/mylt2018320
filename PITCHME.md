@@ -1,4 +1,4 @@
-俺の話を聞け!! LT大会＃8
+GitPitchでスライド作成
 
 $$ \[
   \mathrm{det}A = |A| = \left|
